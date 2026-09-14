@@ -82,6 +82,7 @@ A Java compatible code editor such as Visual Studio Code can be used to open and
 A terminal such as Command Prompt or PowerShell is required to compile and run the program.
 
 ## How to Run
+Download the "Project Code for LibraryManagementSystem" folder
 
 Open the project folder in Visual Studio Code.
 
