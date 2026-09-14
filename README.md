@@ -206,7 +206,7 @@ The project can be improved in the future by adding permanent data storage, a lo
 
 ## Project Type
 
-Individual Academic Project
+Individual Academic Project for Vityarthi.
 
 ## Author
 
